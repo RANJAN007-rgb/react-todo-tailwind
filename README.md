@@ -13,6 +13,25 @@ A simple yet stylish To-Do list application built with **React**, **Vite**, and 
 Features include: add tasks, delete tasks, mark tasks completed, edit tasks — all wrapped up in a modern, responsive UI with light/dark mode support.  
 
 
+
+## 🎯 Features
+
+✅ Add new tasks
+
+✅ Delete tasks
+
+✅ Mark tasks as completed
+
+✅ Edit existing tasks (double-click or Edit button)
+
+✅ Responsive design
+
+✅ Styled with Tailwind CSS — clean modern UI
+
+✅ Light / Dark theme ready (via browser / OS theme)
+
+✅ LocalStorage — tasks persist across page reloads
+
 ## 🚀 Installation & Running Instructions
 
 ```bash
