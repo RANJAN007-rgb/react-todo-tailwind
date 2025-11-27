@@ -32,6 +32,14 @@ Features include: add tasks, delete tasks, mark tasks completed, edit tasks — 
 
 ✅ LocalStorage — tasks persist across page reloads
 
+## ⚙️ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RANJAN007-rgb/react-todo-tailwind
+   cd To_do_list
+
+
 ## 🚀 Installation & Running Instructions
 
 ```bash
@@ -44,11 +52,4 @@ npm run dev
 # build for production
 npm run build
 
-
-## ⚙️ Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RANJAN007-rgb/react-todo-tailwind
-   cd To_do_list
 
