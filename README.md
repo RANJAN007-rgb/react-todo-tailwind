@@ -43,3 +43,12 @@ npm run dev
 
 # build for production
 npm run build
+
+
+## ⚙️ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RANJAN007-rgb/react-todo-tailwind
+   cd To_do_list
+
